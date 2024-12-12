@@ -7,6 +7,8 @@
 
 ![smfmo GitHub stats](https://github-readme-stats.vercel.app/api?username=smfmo&show_icons=true&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smfmo&layout=compact)
+
 ### Tecnologias que eu utilizo no meu dia a dia 💻
 
 <div style="display: inline_block"><br/>
@@ -27,3 +29,4 @@
 </div><br>
 
 Sou desenvolvedor Web e Mobile apaixonado por tecnologia e criação de soluções inovadoras. Atualmente, estou no 5º semestre de Engenharia de Software, desenvolvendo projetos que unem criatividade e funcionalidade!
+
