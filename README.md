@@ -6,8 +6,10 @@
 
 
 ![smfmo GitHub stats](https://github-readme-stats.vercel.app/api?username=smfmo&show_icons=true&theme=dark)
-
+    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smfmo&layout=compact)
+
+
 
 ### Technologies I use in my daily routine 💻
 
