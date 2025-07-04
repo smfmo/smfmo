@@ -27,5 +27,5 @@
     <img align="center" alt="notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div><br>
 
-Back-End Developer passionate about technology and creating innovative solutions. Currently in the 5th semester of Software Engineering, developing projects that combine creativity and functionality!
+Back-End Developer passionate about technology and creating innovative solutions. Currently in the 6th semester of Software Engineering, developing projects that combine creativity and functionality!
 
